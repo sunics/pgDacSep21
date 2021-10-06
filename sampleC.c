@@ -11,5 +11,5 @@ void addTwo()
 
 void main()
 {
-	
+	addTwo();
 }
