@@ -1,3 +1,4 @@
+//simple program
 #include<stdio.h>
 int main()
 {
