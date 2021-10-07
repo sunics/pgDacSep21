@@ -1,5 +1,6 @@
 #include<stdio.h>
 
+
 void subtractTwo()
 {	int n1,n2;
 	printf("Enter Two integers ");
@@ -8,8 +9,14 @@ void subtractTwo()
 	
 }
 
-
-void main()
+void main ()
 {
+
+
+  printf("hello mam good morning this is prathamesh");
+
+
+
 	subtractTwo();
+
 }
